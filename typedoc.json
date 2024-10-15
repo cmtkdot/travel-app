@@ -1,0 +1,10 @@
+{
+  "entryPoints": ["./src"],
+  "out": "docs",
+  "exclude": ["**/node_modules/**"],
+  "excludeExternals": true,
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "theme": "default",
+  "name": "Travel App Documentation"
+}
